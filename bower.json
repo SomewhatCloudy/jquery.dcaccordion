@@ -1,0 +1,19 @@
+{
+	"name": "jquery.dcaccordion",
+	"version": "2.7",
+	"description": "Bower compatible dillonforrest/jquery.dcaccordion",
+	"main": [
+		"jquery.dcaccordion.2.7.js"
+	],
+	"dependencies": {
+		"jquery": ">= 1.9.1"
+	},
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
